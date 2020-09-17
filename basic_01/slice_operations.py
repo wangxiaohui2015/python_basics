@@ -1,0 +1,26 @@
+l = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+print(l[2: 5])
+print(l[2: 9: 2])
+print(l[: 9: 2])
+print(l[4:: 2])
+print(l[::-1])
+print(l[::-2])
+print(l[-2::-2])
+
+t = (0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
+print(t[2: 5])
+print(t[2: 9: 2])
+print(t[: 9: 2])
+print(t[4:: 2])
+print(t[::-1])
+print(t[::-2])
+print(t[-2::-2])
+
+s = "abcdefghijklmnopqrstuvwxyz"
+print(s[2: 5])
+print(s[2: 9: 2])
+print(s[: 9: 2])
+print(s[4:: 2])
+print(s[::-1])
+print(s[::-2])
+print(s[-2::-2])

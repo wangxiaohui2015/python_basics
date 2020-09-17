@@ -1,0 +1,8 @@
+print("The number is %s." % 3)
+print("%.2f" % 2.4567)
+print("%.2f" % 2.4)
+print("%d" % 2.4)
+print("%x" % 100)
+print("%o" % 100)
+print("%r" % 100)
+print("%d%%" % 100)
